@@ -4,7 +4,7 @@
 ## Main Interest:
 The main interest of this project is to combine the benefits of Waze and Booky applications. It shows a list of restaurants nearest to the location of the user and displays its menu and price range for convenience.
 
- ![alt text] (https://github.com/HannahGlean/FooBoo/blob/master/ProjectFlowchart.jpg)
+ ![alt text] (https://github.com/DLSU-Manila-LBYCP12/FooBoo-Licudine-Pituk-Santamaria-/blob/master/ProjectFlowchart.jpg)
 
 ## Significance:
 1. It could save time for students since they would not have to walk around Taft just to find a restaurant that offers budget-friendly and great-tasting food. 
